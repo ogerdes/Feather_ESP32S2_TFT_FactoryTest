@@ -11,7 +11,7 @@
 #include "Adafruit_TestBed.h"
 #include <Adafruit_BME280.h>
 //BME280 Temperature, Humidity and Barometric Pressure Sensor.
-There is currently no BME280 sensor shipped on the ESP32-S2 TFT Feather - only a space for it!
+//There is currently no BME280 sensor shipped on the ESP32-S2 TFT Feather - only a space for it!
 #include <Adafruit_ST7789.h> //Color 1.14" IPS TFT with 240x135 pixels 
 #include <Fonts/FreeSans12pt7b.h>
 
